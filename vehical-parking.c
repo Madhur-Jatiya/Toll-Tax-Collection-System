@@ -7,7 +7,6 @@
  //tnob=total no of buses
  //tnoov=total no of other vehicles
  
-
  
 	int Cycle()
 		{
@@ -114,7 +113,14 @@
   
  int main()
    {
-       char x = 'N';
+ 
+		
+	printf("\tWelcome\n\n");
+	sleep(2);
+	printf("Moms Presents = Digital Parking System.\n");
+ 
+    char x = 'N';
+
     while(x =='N')
     {
 	   	switch(menu())
