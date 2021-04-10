@@ -115,8 +115,8 @@
   
  int main()
    {
-       char x ='y';
-    while(x=='y')
+       char x;
+    while(x=='y' || 'Y')
     {
 	   	switch(menu())
  		{
@@ -161,7 +161,7 @@
 			 	break;
  		}
  		
- 		printf("\nEnter N if you want to exit\n");
+ 		printf("\nEnter Y if you want to continue\n");
  	    scanf("%c",&x);
  		scanf("%c",&x);
  	
