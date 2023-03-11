@@ -8,3 +8,5 @@ Additionally, the system keeps a count of the number of vehicles that have cross
 The Toll Tax Collection System is a simple yet effective tool for managing toll collection at a plaza. Its features can be further enhanced with additional modules such as real-time monitoring and reporting, which can be implemented based on the user's needs.
 
 Overall, the Toll Tax Collection System is a useful and practical application that streamlines toll collection and provides valuable data for planning and decision-making.
+
+![image](https://user-images.githubusercontent.com/70679523/224509681-5244eaf5-53bb-4ddf-8743-f7b83dc7a25e.png)
